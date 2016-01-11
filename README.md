@@ -1,0 +1,1 @@
+# assertj-jax-rs-client
